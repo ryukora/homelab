@@ -1,27 +1,29 @@
+# **English** | [Indonesia](README-id.md)
 # Homelab
+## Overview
 
-## Ryukura's Docker Compose Collection
+### Ryukura's Docker Compose Collection
 
-Kumpulan file konfigurasi untuk homelab saya, mencakup Docker Compose, script, dan lainnya. Semuanya siap pakai dan dirancang untuk mempermudah setup berbagai layanan. Cocok untuk pemula yang baru keliling di dunia Docker, konfigurasi sudah teruji, simpel, dan mudah dijalankan.
+This is a collection of configuration files for my home lab, including Docker Compose files, scripts, and more. Everything is ready to use and designed to simplify the setup of various services. Perfect for beginners exploring the world of Docker, all configurations are tested, simple, and easy to run.
 
 ---
 
-## Fitur
+## Features
 
-- **Langsung Pakai**  
-  Copy-paste dan jalankan tanpa konfigurasi awal.
+- **Ready to Use**  
+  Just copy-paste and run without initial configuration.
 
-- **Multi-Layanan**  
-  Banyak layanan aktif dengan satu perintah.
+- **Multi-Service**  
+  Run multiple services with a single command.
 
-- **Ramah Pemula**  
-  Penjelasan dan struktur file dibuat sesederhana mungkin.
+- **Beginner Friendly**  
+  File structure and explanations are kept as simple as possible.
 
-- **Mudah Kustomisasi**  
-  Bebas diubah sesuai kebutuhan proyek.
+- **Easy to Customize**  
+  Freely modify to fit your project needs.
 
-- **Teruji dan Stabil**  
-  Semua konfigurasi sudah tes dan bukti berjalan lancar.
+- **Tested and Stable**  
+  All configurations have been tested and proven to run smoothly.
 
 ---
 
@@ -29,9 +31,9 @@ Kumpulan file konfigurasi untuk homelab saya, mencakup Docker Compose, script, d
 
 ### 1. Install Docker
 
-[Download](https://www.docker.com/get-docker) dan pastikan sudah terpasang di sistem Anda.
+[Download Docker](https://www.docker.com/get-docker) and make sure it's installed on your system.
 
-### 2. Clone Repository
+### 2. Clone the Repository
 
 ```bash
 git clone https://github.com/ryukora/homelab.git
