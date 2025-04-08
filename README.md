@@ -1,8 +1,7 @@
 # **English** | [Indonesia](README-id.md)
-# Homelab
-## Overview
-
-### Ryukura's Docker Compose Collection
+## Homelab
+### Overview
+Ryukura's Docker Compose Collection
 
 This is a collection of configuration files for my home lab, including Docker Compose files, scripts, and more. Everything is ready to use and designed to simplify the setup of various services. Perfect for beginners exploring the world of Docker, all configurations are tested, simple, and easy to run.
 
